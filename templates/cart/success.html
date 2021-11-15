@@ -1,0 +1,11 @@
+{% extends 'core/base.html' %}
+<div>{% block title %}Success{% endblock title %}</div>
+<div>
+	{% block content %}
+		<h1 class="title">Submit Successful</h1>
+    	<div class="hero-body has-text-centered">
+			<p class="title mb-6">Thank You for Ordering!{{ vendor.name }}</p>
+			<p class="subtitle">Farmer recieve your filled information, please wait for his/her reply by your email or phone no.</p>
+		</div>
+	{% endblock content %}
+</div>
