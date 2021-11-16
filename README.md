@@ -1,7 +1,5 @@
-# Django Gonzaga's Farmer Portal with Payment
-This is a Gonzaga's Farmer Portal built with Django (Ptyhon) and Stripe is added as payment processor.
-
-In this website, Vendors (Stores) can register and add their products.
+# Django Gonzaga's Farmer Portal 
+This is a Gonzaga's Farmer Portal built with Django (Ptyhon).In this website, Vendors (Stores) can register and add their products.
 
 And Users can visit the product and order by paying with Cash on Delivery (COD).
 
